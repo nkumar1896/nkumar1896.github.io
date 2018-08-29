@@ -115,7 +115,7 @@ img{
 	justify-content:center;
 	flex-wrap:wrap;
 	background-color:#D3D4D9;
-	margin-top:17px;
+	margin-top:19px;
 	/*height:auto;*/
 }
 .nn
@@ -160,7 +160,7 @@ img{
 	
 	
 }
-.last{
+footer{
 	display:flex;
 	width:100%;
 	height:auto;
@@ -207,7 +207,7 @@ box3 p{
 	  justify-content:space-between;
 	  
   }
-  .last{
+  footer{
 	  width:100%;
 	  margin-top:0px;
 	  height:100%;
@@ -292,7 +292,7 @@ box3 p{
 	  justify-content:space-between;
 	  
   }
-  .last{
+  footer{
 	  margin-top:0px;
 	  height:100%;
 	  
@@ -308,27 +308,4 @@ box3 p{
    
    
 }
-/*@media  screen and (width: 411px)and (height:823px){
-	.nav{
-	 
-	 height:60%;
-	 
-   }
-   
-}
-@media  screen and (width: 360px)and (height:640px){
-	.nav{
-	 
-	 height:70%;
-	 
-   }
-   
-}
-@media  screen and (width: 411px)and (height:731px){
-	.nav{
-	 
-	 height:60%;
-	 
-   }
-   
-}*/
+
