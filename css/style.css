@@ -179,13 +179,7 @@ ul  a{
 box3 p{
 	color:black;
 }
-/*.footer {
-    clear: both;
-    position: relative;
-    z-index: 10;
-    height: 3em;
-    margin-top: -3em;
-}*/
+
 @media  screen and (max-width: 1100px )  {
 	.container{
 		width:100%;
