@@ -111,7 +111,7 @@ img{
 	width:100%;
 	height:50%;
 }
-.main{
+.hero{
 	display:flex;
 	width:100%;
 	justify-content:center;
@@ -217,7 +217,7 @@ box3 p{
 	  justify-content:space-between;
 	  
   }
-  /*.main{
+  /*.hero{
 	  margin-top:30px;
   }*/
   .box{
@@ -303,7 +303,7 @@ box3 p{
 .img{
 	padding-top:100px;
 }
-.main{
+.hero{
 	margin-top:180px;
 	width:100%;
 	height:100%;
