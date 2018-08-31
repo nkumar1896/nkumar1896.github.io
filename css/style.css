@@ -4,6 +4,7 @@ body {
 	padding: 0;
 	width: 100%;
 }
+/*section start here*/
 
 section {
 	position: fixed;
@@ -29,7 +30,7 @@ header {
 	text-size-adjust: 5%;
 	height: 100%;
 }
-
+/*header end here */
 .box2 {
 	display: flex;
 	text-align: center;
@@ -54,7 +55,7 @@ nav {
 	height: 100%;
 	margin-top:-5px;
 }
-
+/* nav end here */
 
 /*.dropbtn {
     background-color: #4CAF50;
@@ -137,7 +138,7 @@ ul{
 .dropdown:hover .dropdown-content {
 	display: block;
 }
-
+/*flex start here */
 .flex-container {
 	display: flex;
 	width: 100%;
@@ -195,7 +196,8 @@ ul a {
 	/*padding-left:0.1vw;*/
 	color:#2F4858;
 	
-}
+}/*footer end here */
+/*social icon start from here*/
 body {
     font-family: 'Lato', sans-serif;
     color: #FFF;
@@ -295,32 +297,8 @@ ul.social-icons {
 }
 .fa-youtube:hover {
     background-color: #e64a41;
-}
-.fa-linkedin {
-    padding:10px 14px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
-}
-.fa-linkedin:hover {
-    background-color: #0073a4;
-}
-.fa-google-plus {
-    padding:10px 9px;
-    -o-transition:.5s;
-    -ms-transition:.5s;
-    -moz-transition:.5s;
-    -webkit-transition:.5s;
-    transition: .5s;
-    background-color: #322f30;
-}
-.fa-google-plus:hover {
-    background-color: #e25714;
-}
-
+}/*social icon end here */
+/* first media query start from here*/
 @media screen and (max-width: 1100px) {
 	section {
 		width: 100%;
@@ -369,8 +347,8 @@ ul.social-icons {
 	.hero {
 		margin-top: -10px;
 	}
-}
-
+}/*first media query end */
+/*second media query start from here*/
 @media screen and (max-width: 599px) {
 	section {
 		width: 100%;
